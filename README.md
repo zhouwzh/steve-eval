@@ -3,7 +3,7 @@
 # Data
 
 ```python
-python eval_fgari_video.py --out_path path
+python download_movi_with_masks.py --out_path path
 ```
 
 # Run
